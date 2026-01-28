@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Govind Nagar 👋 
+Backend Developer | Node.js | Express.js | MongoDB
 
-<!--
-**govind-codex/govind-codex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Backend Developer Intern with hands-on experience in building scalable RESTful APIs using Node.js and Express.js. I work with MongoDB and MySQL, follow MVC architecture, and focus on writing clean, maintainable backend code.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+Backend: Node.js, Express.js
+Databases: MongoDB, MySQL
+Tools: Git, GitHub, Postman
+Concepts: REST APIs, JWT Authentication, MVC Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects Asset Management System
+Developed RESTful APIs for asset assignment and returns
+Designed MongoDB schemas with validations
+Implemented authentication and logging features
+
+User Authentication API
+JWT-based authentication system
+Role-based access control
+Secure password handling
+
+📌 Currently
+Working as a Backend Developer Intern
+Improving API performance and security
+Learning system design and scalable architectures
+
+🔗 Connect with Me
+LinkedIn: https://www.linkedin.com/in/govind-nagar-6b16771ab/
+GitHub: https://github.com/govind-codex
